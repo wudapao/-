@@ -1,0 +1,8 @@
+com\itany\dichat\dao\UserLogDao.class
+com\itany\dichat\dao\UserDefineDao.class
+com\itany\dichat\dao\UserDao.class
+com\itany\dichat\dao\UserAddMsgDao.class
+com\itany\dichat\dao\chatMsgDao.class
+com\itany\dichat\dao\UserImpressionDao.class
+com\itany\dichat\dao\UserLoveLogDao.class
+com\itany\dichat\dao\UserFriendDao.class
