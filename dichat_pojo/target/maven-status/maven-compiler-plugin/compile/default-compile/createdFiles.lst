@@ -1,0 +1,11 @@
+com\itany\dichat\pojo\UserLoveLog.class
+com\itany\dichat\pojo\ImpressionList.class
+com\itany\dichat\pojo\UserFriendList.class
+com\itany\dichat\pojo\ChatList.class
+com\itany\dichat\pojo\chatMsg.class
+com\itany\dichat\pojo\UserFriend.class
+com\itany\dichat\pojo\UserDefine.class
+com\itany\dichat\pojo\UserImpression.class
+com\itany\dichat\pojo\AddMsgList.class
+com\itany\dichat\pojo\UserAddMsg.class
+com\itany\dichat\pojo\User.class
